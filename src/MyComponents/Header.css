@@ -1,0 +1,18 @@
+.logo{
+    color:Black;
+    margin:0px 15px;
+   
+}
+.links{
+    color:Gray;
+    margin:0px 15px;
+   
+}
+
+.logo:hover{
+    text-Decoration:none;
+    color:black;
+}
+.links:hover{
+    text-Decoration:none;
+}
